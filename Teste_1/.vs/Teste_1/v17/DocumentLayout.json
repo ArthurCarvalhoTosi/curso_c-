@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Projetos\\Teste_1\\",
+  "WorkspaceRootPath": "C:\\Projetos\\curso_c#\\Teste_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{55E5121F-3F03-4BBA-82C7-6CBFE92BF83F}|Teste_1\\Teste_1.csproj|c:\\projetos\\teste_1\\teste_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{55E5121F-3F03-4BBA-82C7-6CBFE92BF83F}|Teste_1\\Teste_1.csproj|c:\\projetos\\curso_c#\\teste_1\\teste_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55E5121F-3F03-4BBA-82C7-6CBFE92BF83F}|Teste_1\\Teste_1.csproj|solutionrelative:teste_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -48,11 +48,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projetos\\Teste_1\\Teste_1\\Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\curso_c#\\Teste_1\\Teste_1\\Program.cs",
               "RelativeDocumentMoniker": "Teste_1\\Program.cs",
-              "ToolTip": "C:\\Projetos\\Teste_1\\Teste_1\\Program.cs",
+              "ToolTip": "C:\\Projetos\\curso_c#\\Teste_1\\Teste_1\\Program.cs",
               "RelativeToolTip": "Teste_1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBsAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-10T23:34:34.36Z",
               "EditorCaption": ""
