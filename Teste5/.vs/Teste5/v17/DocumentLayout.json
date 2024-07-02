@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{4B7DF812-394C-47F1-949C-7E7E03FFE126}|Teste5\\Teste5.csproj|solutionrelative:teste5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B7DF812-394C-47F1-949C-7E7E03FFE126}|Teste5\\Teste5.csproj|c:\\projetos\\curso_c#\\teste5\\teste5\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4B7DF812-394C-47F1-949C-7E7E03FFE126}|Teste5\\Teste5.csproj|C:\\Projetos\\curso_c#\\Teste5\\teste5\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B7DF812-394C-47F1-949C-7E7E03FFE126}|Teste5\\Teste5.csproj|solutionrelative:teste5\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -56,7 +56,7 @@
               "RelativeDocumentMoniker": "Teste5\\Triangulo.cs",
               "ToolTip": "C:\\Projetos\\curso_c#\\Teste5\\Teste5\\Triangulo.cs",
               "RelativeToolTip": "Teste5\\Triangulo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-02T00:19:23.341Z",
               "EditorCaption": ""
@@ -69,7 +69,7 @@
               "RelativeDocumentMoniker": "Teste5\\Program.cs",
               "ToolTip": "C:\\Projetos\\curso_c#\\Teste5\\Teste5\\Program.cs",
               "RelativeToolTip": "Teste5\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-02T00:14:56.7Z",
               "EditorCaption": ""
