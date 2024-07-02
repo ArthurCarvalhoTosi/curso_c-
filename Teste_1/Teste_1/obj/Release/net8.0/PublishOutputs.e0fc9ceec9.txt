@@ -1,0 +1,5 @@
+C:\Projetos\Executavel_Teste_1\Teste_1.exe
+C:\Projetos\Executavel_Teste_1\Teste_1.dll
+C:\Projetos\Executavel_Teste_1\Teste_1.deps.json
+C:\Projetos\Executavel_Teste_1\Teste_1.runtimeconfig.json
+C:\Projetos\Executavel_Teste_1\Teste_1.pdb
